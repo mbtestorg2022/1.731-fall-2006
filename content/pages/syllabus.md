@@ -19,8 +19,45 @@ Grading
 
 There will be an in-class midterm exam and an in-class final exam. There will also be a class project which will be carried out during the second half of the semester. Homework will be designed to build skills. The grade will be based on exams, project, and homework. A detailed schedule is provided in the [calendar]({{< baseurl >}}/pages/calendar) section.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Exams | 50% |
-| Project | 30% |
-| Homework | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
