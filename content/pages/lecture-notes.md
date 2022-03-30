@@ -40,7 +40,7 @@ Example: Irrigation and Salination
 
 {{< tdclose >}}
 {{< tdopen >}}
-irrigation.m ([M](/courses/civil-and-environmental-engineering/1-731-water-resource-systems-fall-2006/lecture-notes/irrigation.m))
+irrigation.m ({{% resource_link "94e57fc7-83ff-8d28-6aaf-6142cf623c8f" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +300,7 @@ Capacity Expansion ([PDF]({{< baseurl >}}/resources/lect21))
 {{< tdopen >}}
 
 
-Lecture06\_21.m ([M](/courses/civil-and-environmental-engineering/1-731-water-resource-systems-fall-2006/lecture-notes/Lecture06_21.m))
+Lecture06\_21.m ({{% resource_link "0ea35d4b-0468-d2a3-38cf-310921c31bfc" "M" %}})
 
 
 {{< tdclose >}}
